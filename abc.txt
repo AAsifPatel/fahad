@@ -1,1 +1,1 @@
-hi, Welcome to git repository
+hi, Welcome to git repository and add it.
